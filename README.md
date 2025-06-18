@@ -42,7 +42,7 @@ neurix_intern/
    ```
 
 2. **Set up environment variables**
-   Create a `.env` file in the root directory with the following variables:
+   Create a `.env` file in the **backend** directory with the following variables:
    ```
    DATABASE_URL=postgresql://postgres:postgres@localhost:5432/expense_tracker
    SECRET_KEY=your_secret_key_here
@@ -64,7 +64,7 @@ neurix_intern/
 
 ## Working Demo Video
 Check out the working demo video showcasing all features:
-[Link to Demo Video]
+https://drive.google.com/file/d/1aEhvNOWOSCjIZsX_5evzG7bKz5bCZPb5/view?usp=sharing
 
 ## API Endpoints
 
